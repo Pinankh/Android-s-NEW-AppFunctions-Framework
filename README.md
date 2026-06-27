@@ -6,9 +6,11 @@
 
 ---
 
-*By [Your Name] | Principal Android Engineer | 15+ Years in Android Platform, Fintech & Payment Systems*
+*By Pinankh Patel | Principal Android Engineer | 15+ Years in Android Platform, Fintech & Payment Systems*
 
 ---
+
+<img src="banner.png" alt="Banner" >
 
 ## Introduction: The Long Arc of Android App Communication
 
